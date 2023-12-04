@@ -2,6 +2,11 @@
 
 Git is the most popular version control system. It is used to track changes in the source code of software development projects and other information. This workshop will cover the basics of Git.
 
+## What does this workshop cover?
+In this workshop we'll revisit some of the basic git commands and dive into the merge, rebase, and cherry-pick commands. These commands are essential for collaborating with other developers on projects. 
+
+<!-- If these is enough time we might visit some of the advanced git commands like `git bisect` and `git reflog`. -->
+
 ## Core concepts
 The core concepts of Git are:
 - **Repository**: A repository is a collection of files and folders. It is also known as a repo. It is the most basic element of Git. It is stored in a `.git` folder in the root of the repository.
